@@ -113,6 +113,7 @@ The second dashboard focuses on employee demographics, experience, and organizat
   - **169 Managers**
 
 These insights indicate a relatively experienced and stable workforce.
+<img width="1277" height="717" alt="Screenshot 2026-10-04 204802" src="https://github.com/user-attachments/assets/33c5019d-1384-4095-9b01-8ce7eaa6c166" />
 
 ---
 
@@ -190,7 +191,6 @@ Departments such as **Logistics** can be studied further because they show relat
 ## 4. Data-Driven HR Decisions
 
 Continue using HR analytics and predictive models to support workforce planning, budgeting, recruitment, and compensation decisions.
-<img width="1277" height="717" alt="Screenshot 2026-10-04 204802" src="https://github.com/user-attachments/assets/33c5019d-1384-4095-9b01-8ce7eaa6c166" />
 
 ---
 
